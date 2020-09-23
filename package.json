@@ -1,0 +1,14 @@
+{
+  "name": "project.json",
+  "version": "0.1",
+  "description": "test project",
+  "main": "index.js",
+  "repository": "https://github.com/thomastilson/tableau-extensions-data-table",
+  "author": "thomas tilson",
+  "license": "sure",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
